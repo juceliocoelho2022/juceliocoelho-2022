@@ -21,6 +21,6 @@
          <img align="center" alt="html5" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "/>
           <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "/>
            <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+</div><br>
 
 ### ESTOU ESTUDANDO  ANALISE E DESENVOLVIMENTO DE SISTEMAS 
